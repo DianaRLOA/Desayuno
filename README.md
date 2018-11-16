@@ -1,4 +1,25 @@
-# Desayuno
+﻿# Desayuno
 Ejercicio Desayuno
 
 El objetivo del ejercicio es desarrollar la preparación de un desayuno como un algoritmo.
+
+Las acciones para preparar desayuno son: preparar, rellenar, servir, moler, calentar, calentarSartén y cortar, según lo que se les indico en la Tarea Nº3.
+
+Ahora vamos a resolver este problema, a través de la creación de funciones, que simularán el comportamiento de las acciones, las cuales necesitan ser alimentadas por materias primas (inputs) para que trabajen adecuadamente.
+
+Por ese motivo, se requiere de su colaboración para asginar las materias primas de manera correcta a las funciones, logrando así el tan esperado desayuno.
+
+Las matarias primas son:
+
+<ol>
+<li>palta</li>
+<li>naranjas</li>
+<li>pan</li>
+<li>cafe</li>
+<li>harina</li>
+<li>huevos</li>
+</ol>
+
+Los script de las funciones están en https://github.com/amarufd/desayuno
+
+Considerar que la función servir tiene un orden asignado para que este trabaje adecuadamente. Revisa el código para conocer el orden correcto de las funciones.
